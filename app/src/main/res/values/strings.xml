@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ISSShooter</string>
+    <string name="camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>
